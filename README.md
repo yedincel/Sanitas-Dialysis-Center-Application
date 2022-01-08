@@ -11,9 +11,12 @@ For User Login
 Username: 66411122200
 Password: Zeynep123.
 
-TR 
-Bir diyaliz merkezinin yönetim sisteminin ve hastaların randevu almasını sağlayan C# programlama dilinde yazılmış bir projedir. Visual Studio'da Windows Forms şablonuyla yapılmıştır.Projenin tüm kaynak kodları ' dcas ' klasöründedir.
+//////////////////////////////////////
 
+TR 
+Bir diyaliz merkezinin yönetim sisteminin ve hastaların randevu almasını sağlayan C# programlama dilinde yazılmış bir projedir. Visual Studio'da Windows Forms şablonuyla yapılmıştır.
+
+Projenin tüm kaynak kodları ' dcas ' klasöründedir.
 Yönetici Girişi İçin
 Kullanıcı adı: Yedincel
 Şifre: Yed1234%
