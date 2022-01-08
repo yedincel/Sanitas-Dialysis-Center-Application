@@ -1,0 +1,40 @@
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.exe.config
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.exe
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.pdb
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.csproj.AssemblyReference.cache
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Properties.Resources.resources
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.csproj.GenerateResource.cache
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.csproj.CoreCompileInputs.cache
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.exe
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.pdb
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Main.resources
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Management.resources
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Appointment.resources
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Hasta_goruntule.resources
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Kayit_ekleme.resources
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\diyaliz_algoritmasi_form.Randevu_al.resources
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Randevu_goruntule.resources
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.exe.manifest
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.application
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.exe.manifest
+C:\Users\yedin\source\repos\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.application
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.exe.config
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.exe.manifest
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.application
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.exe
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\bin\Debug\Dialysis Center Appointment System.pdb
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.csproj.AssemblyReference.cache
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Appointment.resources
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Hasta_goruntule.resources
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Kayit_ekleme.resources
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Main.resources
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Management.resources
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Properties.Resources.resources
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\diyaliz_algoritmasi_form.Randevu_al.resources
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis_Center_Appointment_System.Randevu_goruntule.resources
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.csproj.GenerateResource.cache
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.csproj.CoreCompileInputs.cache
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.exe.manifest
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.application
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.exe
+C:\Users\yedin\Desktop\dcas\Dialysis Center Appointment System\obj\Debug\Dialysis Center Appointment System.pdb
