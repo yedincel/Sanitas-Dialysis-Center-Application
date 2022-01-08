@@ -5,7 +5,7 @@ It is a project written in C# programming language that enables the management s
 All source codes of the project are in the ' dcas ' folder.
 
 For Admin Login
-Username: Yedincel
+Username: yedincel
 Password: Yed1234%
 
 For User Login
@@ -20,7 +20,7 @@ Bir diyaliz merkezinin yönetim sisteminin ve hastaların randevu almasını sa�
 Projenin tüm kaynak kodları ' dcas ' klasöründedir.
 
 Yönetici Girişi İçin
-Kullanıcı adı: Yedincel
+Kullanıcı adı: yedincel
 Şifre: Yed1234%
 
 Kullanıcı Girişi İçin
