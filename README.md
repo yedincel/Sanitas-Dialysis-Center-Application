@@ -34,3 +34,5 @@ Kullanıcı Girişi İçin
 Kullanıcı adı: 66411122200
 
 Şifre: Zeynep123.
+
+  <img src="https://github.com/yedincel/Sanitas-Dialysis-Center/blob/main/Logo%20and%20discounts/sanitas_arka_plan.png?raw=truestyle=" style=" width:520px; height:300px">
