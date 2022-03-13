@@ -11,8 +11,7 @@ For User Login
 Username: 66411122200
 Password: Zeynep123.
 
-# --------------------
-
+# 
 TR 
 Bir diyaliz merkezinin yönetim sistemini oluşturan ve hastaların randevu almasını sağlayan C# programlama dilinde yazılmış bir projedir. Visual Studio'da Windows Forms .net şablonuyla yapılmıştır.
 Projenin tüm kaynak kodları 'dcas' klasöründedir.
@@ -25,4 +24,5 @@ Kullanıcı Girişi İçin
 Kullanıcı adı: 66411122200
 Şifre: Zeynep123.
 
+# 
   <img src="https://github.com/yedincel/Sanitas-Dialysis-Center/blob/main/Logo%20and%20discounts/sanitas_arka_plan.png?raw=truestyle=" style=" width:550px; height:380px">
