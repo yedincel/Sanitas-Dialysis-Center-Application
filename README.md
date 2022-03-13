@@ -25,4 +25,4 @@ Kullanıcı adı: 66411122200 -
 Şifre: Zeynep123.
 
 # 
-  <img src="https://github.com/yedincel/Sanitas-Dialysis-Center/blob/main/Screenshots/ana_ekran.png?raw=true" style=" width:550px; height:520px">
+  <img src="https://github.com/yedincel/Sanitas-Dialysis-Center/blob/main/Screenshots/ana_ekran.png?raw=true" style=" width:570px; height:500px">
