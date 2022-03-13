@@ -1,6 +1,6 @@
 # Sanitas-Dialysis-Center
 ENG 
-It is a project written in C# programming language that creates the management system of a dialysis center and allows patients to make appointments. Made with a Windows Forms .net template in Visual Studio. 
+It is a project written in C# programming language that creates the management system of a dialysis center and allows patients to make appointments. Made with a Windows Forms .Net template in Visual Studio. 
 All source codes of the project are in the 'dcas' folder.
 
 For Admin Login -
@@ -13,7 +13,7 @@ Password: Zeynep123.
 
 # 
 TR 
-Bir diyaliz merkezinin yönetim sistemini oluşturan ve hastaların randevu almasını sağlayan C# programlama dilinde yazılmış bir projedir. Visual Studio'da Windows Forms .net şablonuyla yapılmıştır.
+Bir diyaliz merkezinin yönetim sistemini oluşturan ve hastaların randevu almasını sağlayan C# programlama dilinde yazılmış bir projedir. Visual Studio'da Windows Forms .Net şablonuyla yapılmıştır.
 Projenin tüm kaynak kodları 'dcas' klasöründedir.
 
 Yönetici Girişi İçin -
