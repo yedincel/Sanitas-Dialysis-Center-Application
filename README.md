@@ -5,7 +5,7 @@ All source codes of the project are in the 'dcas' folder.
 
 For Admin Login -
 Username: yedincel -
-Password: Yed1234% -
+Password: Yed1234% 
 
 For User Login -
 Username: 66411122200 -
@@ -18,7 +18,7 @@ Projenin tüm kaynak kodları 'dcas' klasöründedir.
 
 Yönetici Girişi İçin -
 Kullanıcı adı: yedincel -
-Şifre: Yed1234% -
+Şifre: Yed1234% 
 
 Kullanıcı Girişi İçin -
 Kullanıcı adı: 66411122200 -
