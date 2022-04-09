@@ -3,7 +3,7 @@
 It is a project written in C# programming language that creates the management system of a dialysis center and allows patients to make appointments. Made with a Windows Forms .Net template in Visual Studio. 
 #### An appointment request is created. An appointment is made for the patient by determining an empty day and time, if the hour is full, the appointment is not created.
 Microsoft Access database is used. Patient information and appointment information are stored there.
-#### This project approximately 4000 thousand lines of code were written and took 2 weeks in total.
+#### This project approximately 4000 thousand lines of code were written and took 2 weeks (28 Dec - 9 Jan) in total.
   
 #  
 For Admin Login -
