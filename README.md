@@ -1,8 +1,11 @@
 # Sanitas-Dialysis-Center
 ### ENG 
 It is a project written in C# programming language that creates the management system of a dialysis center and allows patients to make appointments. Made with a Windows Forms .Net template in Visual Studio. 
-All source codes of the project are in the 'dcas' folder.
-
+#### An appointment request is created. An appointment is made for the patient by determining an empty day and time, if the hour is full, the appointment is not created.
+Microsoft Access database is used. Patient information and appointment information are stored there.
+#### This project approximately 4000 thousand lines of code were written and took 2 weeks in total.
+  
+#  
 For Admin Login -
 Username: yedincel -
 Password: Yed1234% 
@@ -11,17 +14,7 @@ For User Login -
 Username: 66411122200 -
 Password: Zeynep123. 
 
-### TR 
-Bir diyaliz merkezinin yönetim sistemini oluşturan ve hastaların randevu almasını sağlayan C# programlama dilinde yazılmış bir projedir. Visual Studio'da Windows Forms .Net şablonuyla yapılmıştır.
-Projenin tüm kaynak kodları 'dcas' klasöründedir.
-
-Yönetici Girişi İçin -
-Kullanıcı adı: yedincel -
-Şifre: Yed1234% 
-
-Kullanıcı Girişi İçin -
-Kullanıcı adı: 66411122200 -
-Şifre: Zeynep123.
-
 # 
-  <img src="https://github.com/yedincel/Sanitas-Dialysis-Center/blob/main/Screenshots/ana_ekran.png?raw=true" style=" width:590px; height:500px">
+  <img src="https://github.com/yedincel/Sanitas-Dialysis-Center-Application/blob/main/02-Screenshots/01-giris-yap.png?raw=true" style=" width:590px; height:500px">
+  <img src="https://github.com/yedincel/Sanitas-Dialysis-Center-Application/blob/main/02-Screenshots/03-hasta-kayitlari.png?raw=true" style=" width:700px; height:500px">
+  
