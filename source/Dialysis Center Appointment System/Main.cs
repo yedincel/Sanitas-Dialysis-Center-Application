@@ -36,7 +36,6 @@ namespace Dialysis_Center_Appointment_System  // HASTA GİRİŞİ: 66411122200 Z
 
         private void button1_Click(object sender, EventArgs e)
         {
-
             baglanti.Open();
             OleDbCommand selectsorgu1 = new OleDbCommand("select * from yonetici_giris", baglanti); // sorguyu yazarak login isimli bağlantımızda aramayı gerçekleştirdik.             
             OleDbDataReader kayitokuma1 = selectsorgu1.ExecuteReader();   // veri okuyucu tanımlandı , select sorgusu sonuçlarını getir ve kayitokuma datasında saklanır.
@@ -56,20 +55,17 @@ namespace Dialysis_Center_Appointment_System  // HASTA GİRİŞİ: 66411122200 Z
                         this.Hide();
                         Management m1 = new Management();
                         m1.ShowDialog();
-                       
-
-                    }
+                    }               
                     else
                         MessageBox.Show("Kullanıcı adı ya da parola yanlış");
                     break;
                 }
 
                 if (radioButton2.Checked == true)
-                {
+                {               
                     if (kayitokuma_2["tcno"].ToString() == textBox1.Text &&
                         kayitokuma_2["parola"].ToString() == textBox2.Text &&
                         kayitokuma_2["yetki"].ToString() == "Kullanıcı")
-
                     {
                         erisim = true;
                         tcno = kayitokuma_2.GetValue(0).ToString();
@@ -82,9 +78,8 @@ namespace Dialysis_Center_Appointment_System  // HASTA GİRİŞİ: 66411122200 Z
                         telefon = kayitokuma_2.GetValue(7).ToString();
                         this.Hide();
                         Appointment a1 = new Appointment();
-                        a1.ShowDialog();
-                       
-                    }
+                        a1.ShowDialog();                       
+                    }              
                     else
                         MessageBox.Show("Kullanıcı adı ya da parola yanlış");
                     break;
